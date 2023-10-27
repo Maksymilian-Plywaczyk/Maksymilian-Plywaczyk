@@ -1,1 +1,3 @@
--  HI THERE!👋👋 
+-  Hi there!👋👋
+-  I am interested in software engineering, especially in Python 🐍👨🏼‍💻
+-  How to reach me [My LinkedIn Profile](https://www.linkedin.com/in/maksymilian-plywaczyk/) 📫
